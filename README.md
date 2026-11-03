@@ -1,2 +1,2 @@
 # Bitrix24-auto-Krishakz
-Python script for auto-filling new listings in Bitrix24
+Для работы необходимо запустить ngrok на том же порту что указан в config.ini
